@@ -1,0 +1,12 @@
+Task 1: Build a Speed Convertor ( Desktop app for Python batch).
+
+Requirements:
+A. UI Design can be of your choice, but it has to be a GUI app.
+B. Use your course language Python in the backend.
+C. Add any number of features of your choice. You can take inspiration from Convertor app in your PC Calculator. Please do some research on how a convertor works and looks.
+D. It should have Kilometers per hour to Mach conversion.
+E. Input has to be given from PC keyboard.
+F. All necessary input data validations should be theree.
+Fa. Kilometers per hour (Cannot be empty, Cannot be text, Cannot be negative, Cannot be spaces, Cannot be Special characters, Min-Max Limit)
+Fb. Mach (Cannot be empty, Cannot be text, Cannot be negative, Cannot be spaces, Cannot be Special characters, Min-Max Limit)
+g. Error messages cannot be generic. It has to be descriptive of the nature of wrong input and in which input field. Eg, KMPH amount cannot be text, Mach amount cannot be blank.
